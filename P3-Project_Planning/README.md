@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-[Orginazely Wireframes](P3-Project_Planning/Organizely_Wireframes.pdf)
+[Orginazely Wireframes](https://github.com/KajaGrabowska/liftoff-assignments/blob/dcaad194ed964dbad800d27c3026d8ccafe0eb30/P3-Project_Planning/Organizely_Wireframes.pdf)
 
 ### Project Tracker
 
